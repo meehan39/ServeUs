@@ -5,14 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49ba0dcc-7286-46ce-9dd4-21ff625d3735" name="Default Changelist" comment="#90 - Create a recently used listing functionality for the homepage&#10;#111 - Create UI to display the recently viewed listings on the home page">
+      <change afterPath="$PROJECT_DIR$/cse442_App/lib/home screen/listing_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/course-project-5braincells.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/course-project-5braincells.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cse442_App/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cse442_App/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/.packages" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/android/.gradle/5.6.2/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cse442_App/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cse442_App/lib/home screen/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/lib/home screen/home_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cse442_App/lib/user model/user_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/lib/user model/user_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cse442_App/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cse442_App/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cse442_App/ios/Flutter/Generated.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cse442_App/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/cse442_App/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,31 +115,32 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1606887894089" />
-    <state x="100" y="79" width="1240" height="719" key="AVDManager" timestamp="1606965192707">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="100" y="79" width="1240" height="719" key="AVDManager" timestamp="1607398169117">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="100" y="79" width="1240" height="719" key="AVDManager/0.0.1440.900@0.0.1440.900" timestamp="1606965192707" />
     <state x="100" y="100" width="1240" height="700" key="AVDManager/0.23.1440.877@0.23.1440.877" timestamp="1604432037965" />
-    <state x="188" y="25" width="1058" height="875" key="CommitChangelistDialog2" timestamp="1606965238469">
+    <state x="100" y="79" width="1240" height="719" key="AVDManager/0.25.1440.875@0.25.1440.875" timestamp="1607398169117" />
+    <state x="188" y="25" width="1058" height="875" key="CommitChangelistDialog2" timestamp="1607397216985">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="188" y="25" width="1058" height="875" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1606965238469" />
-    <state width="1398" height="274" key="GridCell.Tab.0.bottom" timestamp="1606958535830">
+    <state x="188" y="25" width="1058" height="875" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607397216985" />
+    <state width="1398" height="274" key="GridCell.Tab.0.bottom" timestamp="1607398448899">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="274" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606958535830" />
-    <state width="1398" height="274" key="GridCell.Tab.0.center" timestamp="1606958535828">
+    <state width="1398" height="274" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607398448899" />
+    <state width="1398" height="274" key="GridCell.Tab.0.center" timestamp="1607398448898">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="274" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606958535828" />
-    <state width="1398" height="274" key="GridCell.Tab.0.left" timestamp="1606958535827">
+    <state width="1398" height="274" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607398448898" />
+    <state width="1398" height="274" key="GridCell.Tab.0.left" timestamp="1607398448898">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="274" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606958535827" />
-    <state width="1398" height="274" key="GridCell.Tab.0.right" timestamp="1606958535829">
+    <state width="1398" height="274" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607398448898" />
+    <state width="1398" height="274" key="GridCell.Tab.0.right" timestamp="1607398448899">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="274" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606958535829" />
+    <state width="1398" height="274" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607398448899" />
     <state x="144" y="76" key="MergeDialog" timestamp="1606857670319">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -137,10 +149,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603961763192" />
-    <state x="503" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606887136554">
+    <state x="503" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607397220093">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="503" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1606887136554" />
+    <state x="503" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1607397220093" />
     <state x="385" y="210" key="run.anything.popup" timestamp="1606859389342">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

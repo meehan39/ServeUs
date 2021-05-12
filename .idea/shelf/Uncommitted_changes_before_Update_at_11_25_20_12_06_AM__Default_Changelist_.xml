@@ -1,0 +1,74 @@
+<changelist name="Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]" date="1606280790501" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 11/25/20 12:06 AM [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/android/.gradle/5.6.2/fileHashes/fileHashes.bin" />
+    <option name="AFTER_PATH" value="cse442_App/android/.gradle/5.6.2/fileHashes/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/android/.gradle/5.6.2/javaCompile/javaCompile.lock" />
+    <option name="AFTER_PATH" value="cse442_App/android/.gradle/5.6.2/javaCompile/javaCompile.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/javaCompile.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/build/app/intermediates/flutter/debug/flutter_assets/vm_snapshot_data" />
+    <option name="AFTER_PATH" value="cse442_App/build/app/intermediates/flutter/debug/flutter_assets/vm_snapshot_data" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/vm_snapshot_data" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/build/app/intermediates/flutter/debug/flutter_assets/isolate_snapshot_data" />
+    <option name="AFTER_PATH" value="cse442_App/build/app/intermediates/flutter/debug/flutter_assets/isolate_snapshot_data" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/isolate_snapshot_data" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/android/.gradle/5.6.2/javaCompile/jarAnalysis.bin" />
+    <option name="AFTER_PATH" value="cse442_App/android/.gradle/5.6.2/javaCompile/jarAnalysis.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/jarAnalysis.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/android/.gradle/5.6.2/fileHashes/resourceHashesCache.bin" />
+    <option name="AFTER_PATH" value="cse442_App/android/.gradle/5.6.2/fileHashes/resourceHashesCache.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/resourceHashesCache.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/android/.gradle/buildOutputCleanup/outputFiles.bin" />
+    <option name="AFTER_PATH" value="cse442_App/android/.gradle/buildOutputCleanup/outputFiles.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/outputFiles.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/build/cache.dill.track.dill" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value="cse442_App/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" />
+    <option name="AFTER_PATH" value="cse442_App/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/kernel_blob.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/android/.gradle/5.6.2/fileHashes/fileHashes.lock" />
+    <option name="AFTER_PATH" value="cse442_App/android/.gradle/5.6.2/fileHashes/fileHashes.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/fileHashes.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/android/.gradle/5.6.2/javaCompile/taskHistory.bin" />
+    <option name="AFTER_PATH" value="cse442_App/android/.gradle/5.6.2/javaCompile/taskHistory.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/taskHistory.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/android/.gradle/5.6.2/executionHistory/executionHistory.bin" />
+    <option name="AFTER_PATH" value="cse442_App/android/.gradle/5.6.2/executionHistory/executionHistory.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/executionHistory.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cse442_App/android/.gradle/5.6.2/executionHistory/executionHistory.lock" />
+    <option name="AFTER_PATH" value="cse442_App/android/.gradle/5.6.2/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_20_12_06_AM_[Default_Changelist]/executionHistory.lock" />
+  </binary>
+</changelist>
